@@ -1,0 +1,29 @@
+name: 更新 IPTV 订阅
+
+on:
+  schedule:
+    - cron: "0 20 * * *"    # 每天 UTC 20:00（北京时间次日 04:00）自动跑
+  workflow_dispatch:         # 也支持在 Actions 页手动触发
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write        # 允许提交回仓库
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 抓取并生成 iptv.m3u
+        run: python build_iptv.py --no-proxy   # GitHub 网络可直连，无需代理
+
+      - name: 提交更新
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add iptv.m3u
+          git diff --cached --quiet || git commit -m "自动更新 IPTV 订阅 $(date -u +%Y-%m-%d)"
+          git push
