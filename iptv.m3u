@@ -58,12 +58,10 @@ https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 https://english-livebkali.cgtn.com/live/encgtn.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn@SD" group-title="内地央视" tvg-name="CGTN 纪录 (1080p)",CGTN 纪录 (1080p)
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-id="CGTNSpanish.cn@SD" group-title="内地央视" tvg-name="CGTN Spanish (1080p)",CGTN Spanish (1080p)
-http://45.6.4.35/CGTN/index.m3u8
+#EXTINF:-1 tvg-id="CNDFilmMiddleSchoolChannel.cn@SD" group-title="内地央视" tvg-name="CND Film Middle School Channel",CND Film Middle School Channel
+http://live2.rxip.sc96655.com/live/zxs_4000.m3u8?A=&E=&K=&P=&S=&U=
 #EXTINF:-1 tvg-id="CNDFilmMiddleSchoolChannel.cn@SD" group-title="内地央视" tvg-name="CND Film Middle School Channel",CND Film Middle School Channel
 http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8
-#EXTINF:-1 tvg-id="CNDFilmMiddleSchoolChannel.cn@SD" group-title="内地央视" tvg-name="CND Film Middle School Channel",CND Film Middle School Channel
-http://live2.rxip.sc96655.com/live/zxs_4000.m3u8?E=&U=&A=&K=&P=&S=
 #EXTINF:-1 tvg-id="ChifengComprehensiveNewsChanel.cn@SD" group-title="内地央视" tvg-name="Chifeng Comprehensive News Chanel",Chifeng Comprehensive News Chanel
 http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
 #EXTINF:-1 group-title="内地央视" tvg-name="Foshan News TV",Foshan News TV
@@ -126,6 +124,8 @@ http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
 http://61.173.144.157:9901/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 tvg-id="STVNewsandGeneral.cn@SD" group-title="内地央视" tvg-name="STV News and General",STV News and General
 http://61.173.144.157:9901/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=1
+#EXTINF:-1 tvg-id="ShaanxiSatelitalTV.cn@SD" group-title="内地央视" tvg-name="Shaanxi Satelital TV",Shaanxi Satelital TV
+http://stream.snrtv.com/sxbc-star-cdxWY0.m3u8
 #EXTINF:-1 tvg-id="ShanghaiEducationTelevisionStation.cn@SD" group-title="内地央视" tvg-name="Shanghai Education Television Station",Shanghai Education Television Station
 http://223.166.234.114:7777/tsfile/live/1033_1.m3u8
 #EXTINF:-1 tvg-id="ShenzhenSatelliteTV.cn@SD" group-title="内地央视" tvg-name="Shenzhen Satellite TV (2160p)",Shenzhen Satellite TV (2160p)
@@ -175,7 +175,7 @@ https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
 #EXTINF:-1 group-title="内地央视" tvg-name="兴隆综合",兴隆综合
 https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png" group-title="内地央视",内蒙古卫视
-https://livestream-bt.nmtv.cn/nmtv/3621481general.m3u8?txSecret=a0b8cc66a1124cf66791a507195b9093&txTime=6D58FFD0&token=3cd409fe167f4476abad6b84c8f7db63
+https://livestream-bt.nmtv.cn/nmtv/3621481general.m3u8?txSecret=a0b8cc66a1124cf66791a507195b9093&txTime=6D58FFD0&token=62370f60bf4846e78809af6bc0e45cf1
 #EXTINF:-1 group-title="内地央视" tvg-name="农安新闻综合 [Geo-blocked]",农安新闻综合 [Geo-blocked]
 https://stream2.jlntv.cn/naxw/sd/live.m3u8
 #EXTINF:-1 group-title="内地央视" tvg-name="前郭综合 [Geo-blocked]",前郭综合 [Geo-blocked]
@@ -205,7 +205,7 @@ http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_296.m3u8
 #EXTINF:-1 group-title="内地央视" tvg-name="吉州新聞綜合 (1080p)",吉州新聞綜合 (1080p)
 http://218.204.153.158/10.m3u8
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="内地央视",吉林卫视
-https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=12c945490a7adb5bb3a4b1640c200655&txTime=6A543650
+https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=d9c4bbd903347a6641d201a82d1ecbb7&txTime=6A5587CD
 #EXTINF:-1 tvg-id="JilinSatelliteTV.cn@SD" group-title="内地央视" tvg-name="吉林卫视 (2160p)",吉林卫视 (2160p)
 http://118.81.195.79:9003/hls/34/index.m3u8
 #EXTINF:-1 group-title="内地央视" tvg-name="吉林市新闻综合 [Geo-blocked]",吉林市新闻综合 [Geo-blocked]
@@ -233,7 +233,7 @@ http://live.dxhmt.cn:9081/tv/10883-1.m3u8
 #EXTINF:-1 group-title="内地央视" tvg-name="安徽 Ⅰ 郎溪综合台 (1080p)",安徽 Ⅰ 郎溪综合台 (1080p)
 http://117.70.93.210:1935/live/xinwen/playlist.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="内地央视" http-referrer="https://www.ahtv.cn/",安徽卫视
-https://live1.ahtv.cn/ahws/playlist.m3u8?_upt=ed4864961783896613
+https://live1.ahtv.cn/ahws/playlist.m3u8?_upt=5bf1556a1783983011
 #EXTINF:-1 group-title="内地央视" tvg-name="完美游戏 (1080p) [Not 24/7]",完美游戏 (1080p) [Not 24/7]
 http://183.207.248.71/cntv/live1/wmyx/wmyx
 #EXTINF:-1 tvg-id="CHCHomeTheater.cn@SD" group-title="内地央视" tvg-name="家庭影院 (1080p)",家庭影院 (1080p)
@@ -261,7 +261,7 @@ http://livealone302.iqilu.com/iqilu/shpd.m3u8
 #EXTINF:-1 tvg-id="ShandongTVQiluChannel.cn@SD" group-title="内地央视" tvg-name="山东齐鲁 (1080p) [Geo-blocked]",山东齐鲁 (1080p) [Geo-blocked]
 http://livealone302.iqilu.com/iqilu/qlpd.m3u8
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="内地央视",山西卫视
-https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/x4sh8gV.m3u8
+https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/a3sqrR0.m3u8
 #EXTINF:-1 tvg-id="ShanxiTV.cn@SD" group-title="内地央视" tvg-name="山西卫视 (2160p)",山西卫视 (2160p)
 http://118.81.195.79:9003/hls/19/index.m3u8
 #EXTINF:-1 group-title="内地央视" tvg-name="山西影视",山西影视
@@ -331,7 +331,7 @@ http://121.19.134.246:808/hls/24/index.m3u8
 #EXTINF:-1 group-title="内地央视" tvg-name="河北农民",河北农民
 http://121.19.134.246:808/hls/25/index.m3u8
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="内地央视",河北卫视
-https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1783896617&k=bd58792d69ccbdc7d0ad12799078816e
+https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1783983016&k=90a658125dad6c13051a17d3b3a38075
 #EXTINF:-1 tvg-id="HebeiTV.cn@SD" group-title="内地央视" tvg-name="河北卫视 (2160p)",河北卫视 (2160p)
 http://118.81.195.79:9003/hls/29/index.m3u8
 #EXTINF:-1 group-title="内地央视" tvg-name="河北影视",河北影视
@@ -341,7 +341,7 @@ http://121.19.134.246:808/hls/20/index.m3u8
 #EXTINF:-1 group-title="内地央视" tvg-name="河北都市",河北都市
 http://121.19.134.246:808/hls/21/index.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="内地央视",河南卫视
-http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=11be68daf92223d942de71b71edc6a13&wsTime=1783903805&wsSession=629bb6a36a6c6cf6726452a9-178388940550008&wsIPSercert=965199407363e75c3ccb566d6f002965&wsBindIP=2&wsserid=1168059365225601744
+http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=96522f8c20b31370269658a76f374e0c&wsTime=1783990204&wsSession=629bb6a36a6c6cf6726452a9-178397580483282&wsIPSercert=965199407363e75c3ccb566d6f002965&wsBindIP=2&wsserid=1168059365225601744
 #EXTINF:-1 tvg-id="HenanTVSatellite.cn@SD" group-title="内地央视" tvg-name="河南卫视 (2160p)",河南卫视 (2160p)
 http://118.81.195.79:9003/hls/30/index.m3u8
 #EXTINF:-1 group-title="内地央视" tvg-name="洪雅新闻综合 (1080p)",洪雅新闻综合 (1080p)
@@ -425,9 +425,9 @@ http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv3stream.m3u
 #EXTINF:-1 group-title="内地央视" tvg-name="西安新闻 (1080p) [Not 24/7]",西安新闻 (1080p) [Not 24/7]
 http://stream2.xiancity.cn/xatv1/playlist.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="内地央视",西藏卫视
-https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=40fe2d145851ac540a504a2ed1709c95&time=6a53fdfc
+https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=2483519237067edbedf98d7f237ae609&time=6a554f79
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png" group-title="内地央视",贵州卫视
-https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=df3ff69f5beec8cd130a8e96c345f750&txTime=6A53FE07
+https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=ff3316fd48c987279e8ab6b055c55c46&txTime=6A55487F
 #EXTINF:-1 tvg-id="LiaoningTV.cn@SD" group-title="内地央视" tvg-name="辽宁卫视 (1080p)",辽宁卫视 (1080p)
 http://39.134.39.37/PLTV/88888888/224/3221226209/index.m3u8
 #EXTINF:-1 tvg-id="LiaoningTV.cn@SD" group-title="内地央视" tvg-name="辽宁卫视 (1080p)",辽宁卫视 (1080p)
@@ -459,7 +459,7 @@ http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8
 #EXTINF:-1 group-title="内地央视" tvg-name="长沙经贸 [Geo-blocked]",长沙经贸 [Geo-blocked]
 http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="内地央视",陕西卫视
-http://stream.snrtv.com/sxbc-star-ANTY39.m3u8
+http://stream.snrtv.com/sxbc-star-eiASU1.m3u8
 #EXTINF:-1 group-title="内地央视" tvg-name="集安综合 [Geo-blocked]",集安综合 [Geo-blocked]
 https://stream2.jlntv.cn/ja/sd/live.m3u8
 #EXTINF:-1 tvg-id="QinghaiTV.cn@SD" group-title="内地央视" tvg-name="青海卫视 (1080p)",青海卫视 (1080p)
