@@ -80,6 +80,8 @@ http://dslive.grtn.cn/fszh/sd/live.m3u8
 http://120.39.52.202:5140/%E7%A6%8F%E5%BB%BA%E7%BB%BC%E5%90%88
 #EXTINF:-1 tvg-id="GoldenEagleCartoon.cn@SD" group-title="内地央视" tvg-name="Golden Eagle Cartoon",Golden Eagle Cartoon
 http://1.24.190.98:10080/hls/51/index.m3u8
+#EXTINF:-1 tvg-id="GuangxiVarietyTravelChannel.cn@SD" group-title="内地央视" tvg-name="Guangxi Variety & Travel Channel",Guangxi Variety & Travel Channel
+http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="GuangzhouTV.cn@SD" group-title="内地央视" tvg-name="Guangzhou TV",Guangzhou TV
 https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 #EXTINF:-1 tvg-id="HarbinComprehensiveNewsChannel.cn@SD" group-title="内地央视" tvg-name="Harbin Comprehensive News Channel",Harbin Comprehensive News Channel
@@ -112,6 +114,8 @@ https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/i
 https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8
 #EXTINF:-1 tvg-id="JilinRuralChannel.cn@SD" group-title="内地央视" tvg-name="Jilin Rural Channel",Jilin Rural Channel
 https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8
+#EXTINF:-1 tvg-id="KangbaTV.cn@SD" group-title="内地央视" tvg-name="Kangba TV",Kangba TV
+http://110.185.237.164:8888/hls/30/index.m3u8
 #EXTINF:-1 tvg-id="LanzhouComprehensiveNewsChannel.cn@SD" group-title="内地央视" tvg-name="Lanzhou Comprehensive News Channel",Lanzhou Comprehensive News Channel
 https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
 #EXTINF:-1 tvg-id="LanzhouCultureTourismChannel.cn@SD" group-title="内地央视" tvg-name="Lanzhou Culture & Tourism Channel",Lanzhou Culture & Tourism Channel
@@ -138,12 +142,18 @@ http://119.166.53.110:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
 #EXTINF:-1 tvg-id="QTV3.cn@SD" group-title="内地央视" tvg-name="QTV-3",QTV-3
 http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
+#EXTINF:-1 tvg-id="QTV3.cn@SD" group-title="内地央视" tvg-name="QTV-3",QTV-3
+http://119.166.53.110:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="QTV4.cn@SD" group-title="内地央视" tvg-name="QTV-4",QTV-4
 http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
+#EXTINF:-1 tvg-id="QTV4.cn@SD" group-title="内地央视" tvg-name="QTV-4",QTV-4
+http://119.166.53.110:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="QTV5.cn@SD" group-title="内地央视" tvg-name="QTV-5",QTV-5
 http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
 #EXTINF:-1 tvg-id="QTV6.cn@SD" group-title="内地央视" tvg-name="QTV-6",QTV-6
 http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
+#EXTINF:-1 tvg-id="QTV6.cn@SD" group-title="内地央视" tvg-name="QTV-6",QTV-6
+http://119.166.53.110:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="QinghaiTV.cn@SD" group-title="内地央视" tvg-name="Qinghai TV",Qinghai TV
 https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 #EXTINF:-1 tvg-id="ShenzhenSatelliteTV.cn@SD" group-title="内地央视" tvg-name="Shenzhen Satellite TV (2160p)",Shenzhen Satellite TV (2160p)
@@ -414,10 +424,6 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225696/index.m3u8
 https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
 #EXTINF:-1 group-title="内地央视" tvg-name="通化新闻 [Geo-blocked]",通化新闻 [Geo-blocked]
 https://stream2.jlntv.cn/tonghua1/sd/live.m3u8
-#EXTINF:-1 group-title="内地央视" tvg-name="邢台城生",邢台城生
-http://222.223.119.21:8888/newlive/live/hls/55/live.m3u8
-#EXTINF:-1 group-title="内地央视" tvg-name="邢台综合",邢台综合
-http://222.223.119.21:8888/newlive/live/hls/54/live.m3u8
 #EXTINF:-1 group-title="内地央视" tvg-name="长乐综合 [Geo-blocked]",长乐综合 [Geo-blocked]
 http://35908.hlsplay.aodianyun.com/guangdianyun_35908/tv_channel_327.m3u8
 #EXTINF:-1 group-title="内地央视" tvg-name="长春综合 [Geo-blocked]",长春综合 [Geo-blocked]
