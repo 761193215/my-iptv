@@ -472,6 +472,8 @@ https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CG
 http://seb.sason.top/sc/hsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="CelestialMovies.hk@SD" group-title="港澳台" tvg-name="Celestial Movies (576i)",Celestial Movies (576i)
 http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8
+#EXTINF:-1 tvg-id="DaAi2.tw@SD" group-title="港澳台" tvg-name="DaAi 2 (1080p)",DaAi 2 (1080p)
+http://nmk.ioapk.com:5050/4gtv-live106/index.m3u8
 #EXTINF:-1 tvg-id="EBCFinancialNews.tw@SD" group-title="港澳台" tvg-name="EBC Financial News (東森財經新聞台) (1080p) [Not 24/7]",EBC Financial News (東森財經新聞台) (1080p) [Not 24/7]
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
 #EXTINF:-1 tvg-id="EBCNews.tw@SD" group-title="港澳台" tvg-name="EBC News (東森新聞台) (1080p) [Not 24/7]",EBC News (東森新聞台) (1080p) [Not 24/7]
@@ -488,6 +490,8 @@ https://hoytv-live-stream.hoy.tv/ch77/index.m3u8
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:-1 tvg-id="KIX.hk@SD" group-title="港澳台" tvg-name="KIX",KIX
 https://liveh34.vtvprime.vn/hls/KIX/04.m3u8
+#EXTINF:-1 tvg-id="MOMOTV.tw@SD" group-title="港澳台" tvg-name="MOMO TV (1080p)",MOMO TV (1080p)
+http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
 #EXTINF:-1 tvg-name="RTHK TV 31" tvg-logo="https://i.imgur.com/kf818kM.png" tvg-id="RTHKTV31.hk" tvg-chno="31" tvg-country="HK" group-title="港澳台",港台电视31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-id="RTHKTV31.hk@SD" group-title="港澳台" tvg-name="港台电视31 (港台電視31) (1080p) [Geo-blocked]",港台电视31 (港台電視31) (1080p) [Geo-blocked]
