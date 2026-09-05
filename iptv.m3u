@@ -548,7 +548,7 @@ https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="HLAQDTV.kr@SD" group-title="韩国" tvg-name="MBC Gangwon (MBC 강원영동) (1080p) [Not 24/7]",MBC Gangwon (MBC 강원영동) (1080p) [Not 24/7]
 http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1 tvg-id="HLCNDTV.kr@SD" group-title="韩国" tvg-name="MBC Gwangju (광주 MBC) (1080p) [Geo-blocked] [Not 24/7]",MBC Gwangju (광주 MBC) (1080p) [Geo-blocked] [Not 24/7]
+#EXTINF:-1 tvg-id="HLCNDTV.kr@SD" group-title="韩国" tvg-name="MBC Gwangju (광주 MBC) (1080p)",MBC Gwangju (광주 MBC) (1080p)
 https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MBCGyeongnamTV.kr@SD" group-title="韩国" tvg-name="MBC Gyeongnam (경남 MBC) (1080p) [Not 24/7]",MBC Gyeongnam (경남 MBC) (1080p) [Not 24/7]
 https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
