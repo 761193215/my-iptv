@@ -74,6 +74,8 @@ http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8
 http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
 #EXTINF:-1 tvg-id="ChinaTravel.cn@SD" group-title="内地央视" tvg-name="China Travel (1080p)",China Travel (1080p)
 https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
+#EXTINF:-1 tvg-id="ChuxiongNewsChannel.cn@SD" group-title="内地央视" tvg-name="Chuxiong News Channel [Not 24/7]",Chuxiong News Channel [Not 24/7]
+http://hwapi.yntv.net/ew265l/848y54.m3u8
 #EXTINF:-1 tvg-id="DiscoveringChina.cn@SD" group-title="内地央视" tvg-name="Discovering China (1080p)",Discovering China (1080p)
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
 #EXTINF:-1 tvg-id="DragonTVInternational.cn@SD" group-title="内地央视" tvg-name="Dragon TV International",Dragon TV International
@@ -464,6 +466,8 @@ http://223.110.245.170/PLTV/3/224/3221227252/index.m3u8
 http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8
 #EXTINF:-1 group-title="内地央视" tvg-name="黑龙江卫 (1080p)",黑龙江卫 (1080p)
 http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv
+#EXTINF:-1 tvg-id="AsianDrama.hk@SD" group-title="港澳台" tvg-name="Asian Drama (1080p)",Asian Drama (1080p)
+http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
 #EXTINF:-1 tvg-id="BeautifulLifeTV.tw@SD" group-title="港澳台" tvg-name="Beautiful Life TV",Beautiful Life TV
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1 tvg-id="CGNTVChinese.tw@SD" group-title="港澳台" tvg-name="CGNTV Chinese (1080p)",CGNTV Chinese (1080p)
@@ -478,6 +482,8 @@ http://nmk.ioapk.com:5050/4gtv-live106/index.m3u8
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
 #EXTINF:-1 tvg-id="EBCNews.tw@SD" group-title="港澳台" tvg-name="EBC News (東森新聞台) (1080p) [Not 24/7]",EBC News (東森新聞台) (1080p) [Not 24/7]
 http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="GoldenJade.hk@SD" group-title="港澳台" tvg-name="Golden Jade (1080p)",Golden Jade (1080p)
+http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
 #EXTINF:-1 tvg-id="HOYInfotainment.hk@HD" group-title="港澳台" tvg-name="HOY 资讯 (1080p) [Geo-blocked]",HOY 资讯 (1080p) [Geo-blocked]
 https://hoytv-live-stream.hoy.tv/ch78/index.m3u8
 #EXTINF:-1 tvg-id="HongKongInternationalBusinessChannel.hk@SD" group-title="港澳台" tvg-name="HOY International Business Channel (1080p) [Geo-blocked]",HOY International Business Channel (1080p) [Geo-blocked]
@@ -488,10 +494,18 @@ https://hoytv-live-stream.hoy.tv/ch76/va2-index.m3u8
 https://hoytv-live-stream.hoy.tv/ch77/index.m3u8
 #EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://i.imgur.com/NfVZPTT.png" tvg-id="HKIBC.hk" tvg-chno="77" tvg-country="HK" group-title="港澳台",HOY TV Ⓖ
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+#EXTINF:-1 tvg-id="Jade.hk@SD" group-title="港澳台" tvg-name="Jade (1080p)",Jade (1080p)
+http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
 #EXTINF:-1 tvg-id="KIX.hk@SD" group-title="港澳台" tvg-name="KIX",KIX
 https://liveh34.vtvprime.vn/hls/KIX/04.m3u8
 #EXTINF:-1 tvg-id="MOMOTV.tw@SD" group-title="港澳台" tvg-name="MOMO TV (1080p)",MOMO TV (1080p)
 http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
+#EXTINF:-1 tvg-id="MeiAhMovieChannel.hk@SD" group-title="港澳台" tvg-name="Mei Ah Movie Channel (1080p)",Mei Ah Movie Channel (1080p)
+http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
+#EXTINF:-1 tvg-id="MeiAhMovieChannel.hk@SD" group-title="港澳台" tvg-name="Mei Ah Movie Channel (1080p)",Mei Ah Movie Channel (1080p)
+http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8
+#EXTINF:-1 tvg-id="MeiAhMovieChannel.hk@SD" group-title="港澳台" tvg-name="Mei Ah Movie Channel (1080p)",Mei Ah Movie Channel (1080p)
+http://103.172.187.30:12000/stream/mytv/null-10/master.m3u8
 #EXTINF:-1 tvg-name="RTHK TV 31" tvg-logo="https://i.imgur.com/kf818kM.png" tvg-id="RTHKTV31.hk" tvg-chno="31" tvg-country="HK" group-title="港澳台",港台电视31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-id="RTHKTV31.hk@SD" group-title="港澳台" tvg-name="港台电视31 (港台電視31) (1080p) [Geo-blocked]",港台电视31 (港台電視31) (1080p) [Geo-blocked]
