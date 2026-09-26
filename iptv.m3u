@@ -70,6 +70,8 @@ https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
 http://live2.rxip.sc96655.com/live/zxs_4000.m3u8?A=&E=&K=&P=&S=&U=
 #EXTINF:-1 tvg-id="CNDFilmMiddleSchoolChannel.cn@SD" group-title="内地央视" tvg-name="CND Film Middle School Channel",CND Film Middle School Channel
 http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8
+#EXTINF:-1 tvg-id="ChaozhouPublicChannel.cn@SD" group-title="内地央视" tvg-name="Chaozhou Public Channel",Chaozhou Public Channel
+http://113.64.146.48:1688/hls/4/index.m3u8
 #EXTINF:-1 tvg-id="ChifengComprehensiveNewsChanel.cn@SD" group-title="内地央视" tvg-name="Chifeng Comprehensive News Chanel",Chifeng Comprehensive News Chanel
 http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
 #EXTINF:-1 tvg-id="ChinaTravel.cn@SD" group-title="内地央视" tvg-name="China Travel (1080p)",China Travel (1080p)
