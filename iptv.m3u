@@ -558,6 +558,8 @@ https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="KBSJoy.kr@SD" group-title="韩国" tvg-name="KBS Joy [Not 24/7]",KBS Joy [Not 24/7]
 https://xykt-fix.github.io/flv/KJ_W.m3u8
+#EXTINF:-1 tvg-id="KBSNSports.kr@SD" group-title="韩国" tvg-name="KBS N Sports [Geo-blocked]",KBS N Sports [Geo-blocked]
+https://xyktmobile00.s.gy/PPV919_KBSNSPO_SD
 #EXTINF:-1 tvg-id="KBSWorld.kr@SD" group-title="韩国" tvg-name="KBS World",KBS World
 https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
 #EXTINF:-1 tvg-id="KTV.kr@SD" group-title="韩国" tvg-name="Korea TV (1080p)",Korea TV (1080p)
@@ -568,11 +570,17 @@ http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
 https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MBCGyeongnamTV.kr@SD" group-title="韩国" tvg-name="MBC Gyeongnam (경남 MBC) (1080p) [Not 24/7]",MBC Gyeongnam (경남 MBC) (1080p) [Not 24/7]
 https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="MBCTV.kr@SD" group-title="韩国" tvg-name="MBC TV [Geo-blocked]",MBC TV [Geo-blocked]
+https://xyktmobile00.s.gy/PPV930_S_OPERA_SD
 #EXTINF:-1 tvg-id="HLATDTV.kr@SD" group-title="韩国" tvg-name="MBC Yeosu (여수 MBC) (1080p) [Not 24/7]",MBC Yeosu (여수 MBC) (1080p) [Not 24/7]
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="OUN.kr@SD" group-title="韩国" tvg-name="OUN (1080p)",OUN (1080p)
 https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="SBSGolf.kr@SD" group-title="韩国" tvg-name="SBS Golf",SBS Golf
+https://xyktmobile00.s.gy/PPV922_GOLF_TV
 #EXTINF:-1 tvg-id="HLDHDTV.kr@SD" group-title="韩国" tvg-name="SBS KBC (1080p) [Not 24/7]",SBS KBC (1080p) [Not 24/7]
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HLDGDTV.kr@SD" group-title="韩国" tvg-name="SBS KNN (1080p) [Not 24/7]",SBS KNN (1080p) [Not 24/7]
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
+#EXTINF:-1 tvg-id="SBS.kr@SD" group-title="韩国" tvg-name="SBS [Geo-blocked]",SBS [Geo-blocked]
+https://xyktmobile00.s.gy/PPV921_SBS
