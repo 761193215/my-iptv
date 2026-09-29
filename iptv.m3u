@@ -548,6 +548,10 @@ https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/pl
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="BTNTV.kr@SD" group-title="韩国" tvg-name="BTN TV (1080p)",BTN TV (1080p)
 https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+#EXTINF:-1 tvg-id="BilliardsTV.kr@SD" group-title="韩国" tvg-name="Billiards TV [Geo-blocked]",Billiards TV [Geo-blocked]
+https://xyktmobile00.s.gy/PPV942_BILLIARD
+#EXTINF:-1 tvg-id="BrainTV.kr@SD" group-title="韩国" tvg-name="Brain TV",Brain TV
+https://xyktmobile00.s.gy/PPV941_BRAIN
 #EXTINF:-1 tvg-id="ChannelA.kr@SD" group-title="韩国" tvg-name="Channel A [Geo-blocked]",Channel A [Geo-blocked]
 http://channelalive.ktcdn.co.kr/chalivepc/_definst_/atv2/playlist.m3u8
 #EXTINF:-1 tvg-id="GoodTV.kr@SD" group-title="韩国" tvg-name="GoodTV (1080p)",GoodTV (1080p)
