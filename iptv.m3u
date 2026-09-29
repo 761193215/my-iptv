@@ -576,6 +576,8 @@ https://xyktmobile00.s.gy/PPV930_S_OPERA_SD
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="OUN.kr@SD" group-title="韩国" tvg-name="OUN (1080p)",OUN (1080p)
 https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="PoyoTV.kr@SD" group-title="韩国" tvg-name="Poyo TV [Geo-blocked]",Poyo TV [Geo-blocked]
+https://xyktmobile00.s.gy/PPV936_PORORO_HD
 #EXTINF:-1 tvg-id="SBSGolf.kr@SD" group-title="韩国" tvg-name="SBS Golf",SBS Golf
 https://xyktmobile00.s.gy/PPV922_GOLF_TV
 #EXTINF:-1 tvg-id="HLDHDTV.kr@SD" group-title="韩国" tvg-name="SBS KBC (1080p) [Not 24/7]",SBS KBC (1080p) [Not 24/7]
@@ -584,3 +586,5 @@ https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
 #EXTINF:-1 tvg-id="SBS.kr@SD" group-title="韩国" tvg-name="SBS [Geo-blocked]",SBS [Geo-blocked]
 https://xyktmobile00.s.gy/PPV921_SBS
+#EXTINF:-1 tvg-id="Tooniverse.kr@SD" group-title="韩国" tvg-name="Tooniverse [Geo-blocked]",Tooniverse [Geo-blocked]
+https://xyktmobile00.s.gy/PPV939_TOONCAST
