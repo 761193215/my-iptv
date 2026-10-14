@@ -504,8 +504,8 @@ https://hoytv-live-stream.hoy.tv/ch77/index.m3u8
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:-1 tvg-id="Jade.hk@SD" group-title="港澳台" tvg-name="Jade (1080p)",Jade (1080p)
 http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
-#EXTINF:-1 tvg-id="KIX.hk@SD" group-title="港澳台" tvg-name="KIX",KIX
-https://liveh34.vtvprime.vn/hls/KIX/04.m3u8
+#EXTINF:-1 tvg-id="KIX.hk@SD" group-title="港澳台" tvg-name="KIX (1080p)",KIX (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=9901
 #EXTINF:-1 tvg-id="MOMOTV.tw@SD" group-title="港澳台" tvg-name="MOMO TV (1080p)",MOMO TV (1080p)
 http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
 #EXTINF:-1 tvg-id="MeiAhMovieChannel.hk@SD" group-title="港澳台" tvg-name="Mei Ah Movie Channel (1080p)",Mei Ah Movie Channel (1080p)
