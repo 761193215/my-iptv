@@ -24,14 +24,10 @@ http://198.204.240.250:82/live/cctv1.m3u8
 #EXTINF:-1 tvg-id="CCTV10.cn@SD" group-title="内地央视" tvg-name="CCTV-10 科教 (576i)",CCTV-10 科教 (576i)
 #EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-#EXTINF:-1 tvg-id="CCTV11.cn@SD" group-title="内地央视" tvg-name="CCTV-11 戏曲",CCTV-11 戏曲
-https://xykt-fix.github.io/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="CCTV13.cn@HD" group-title="内地央视" tvg-name="CCTV-13 新闻 (1080p)",CCTV-13 新闻 (1080p)
 http://go.bkpcp.top/mg/cctv13
 #EXTINF:-1 tvg-id="CCTV14.cn@HD" group-title="内地央视" tvg-name="CCTV-14 少儿 (1080p)",CCTV-14 少儿 (1080p)
 http://74.91.26.218:82/live/cctv14hd.m3u8
-#EXTINF:-1 tvg-id="CCTV15.cn@SD" group-title="内地央视" tvg-name="CCTV-15 音乐 (1080p)",CCTV-15 音乐 (1080p)
-https://xykt-fix.github.io/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16.cn@HD" group-title="内地央视" tvg-name="CCTV-16 奥林匹克 (1080p)",CCTV-16 奥林匹克 (1080p)
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="CCTV17.cn@HD" group-title="内地央视" tvg-name="CCTV-17 农业农村 (1080p)",CCTV-17 农业农村 (1080p)
@@ -104,6 +100,8 @@ https://stream.hrbtv.net/yspd/playlist.m3u8
 https://restream.pdtvhd.com/memfs/1db8c005-9365-4b32-94a4-3736987b5646.m3u8
 #EXTINF:-1 tvg-id="HebeiTV.cn@SD" group-title="内地央视" tvg-name="Hebei TV (2160p)",Hebei TV (2160p)
 https://event.pull.hebtv.com/live/live101.m3u8
+#EXTINF:-1 tvg-id="HunanEconomyChannel.cn@SD" group-title="内地央视" tvg-name="Hunan Economy Channel",Hunan Economy Channel
+https://p8.vzan.com/slowlive/415983998730568937/live.m3u8
 #EXTINF:-1 tvg-id="HunanTV.cn@SD" group-title="内地央视" tvg-name="Hunan TV (2160p)",Hunan TV (2160p)
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1 tvg-id="JiangsuPublicNewsChannel.cn@SD" group-title="内地央视" tvg-name="Jiangsu Public & News Channel",Jiangsu Public & News Channel
@@ -172,6 +170,8 @@ https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8
 #EXTINF:-1 tvg-id="SipingTV.cn@SD" group-title="内地央视" tvg-name="Siping TV",Siping TV
 http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
+#EXTINF:-1 tvg-id="TonghuaTV.cn@SD" group-title="内地央视" tvg-name="Tonghua TV",Tonghua TV
+http://139.211.217.79:9004/hls/75/index.m3u8
 #EXTINF:-1 tvg-id="TonghuaTV.cn@SD" group-title="内地央视" tvg-name="Tonghua TV (1080p)",Tonghua TV (1080p)
 http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
 #EXTINF:-1 tvg-id="TonghuaTV.cn@SD" group-title="内地央视" tvg-name="Tonghua TV (1080p)",Tonghua TV (1080p)
@@ -190,6 +190,8 @@ http://110.153.180.106:55555/out_2/index.m3u8
 http://120.70.60.179:9901/tsfile/live/1006_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 tvg-id="XinjiangTV3.cn@SD" group-title="内地央视" tvg-name="Xinjiang TV 3",Xinjiang TV 3
 http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8
+#EXTINF:-1 tvg-id="XinjiangTV5.cn@SD" group-title="内地央视" tvg-name="Xinjiang TV 5",Xinjiang TV 5
+http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="XinjiangTV8.cn@SD" group-title="内地央视" tvg-name="Xinjiang TV 8",Xinjiang TV 8
 http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 tvg-id="XizangTVChinese.cn@SD" group-title="内地央视" tvg-name="Xizang TV Chinese",Xizang TV Chinese
@@ -490,6 +492,8 @@ http://nmk.ioapk.com:5050/4gtv-live106/index.m3u8
 http://125.227.210.55:1004/VideoInput/play.ts
 #EXTINF:-1 tvg-id="EBCFinancialNews.tw@SD" group-title="港澳台" tvg-name="EBC Financial News (東森財經新聞台) (1080p) [Not 24/7]",EBC Financial News (東森財經新聞台) (1080p) [Not 24/7]
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1 tvg-id="EBCForeignMovie.tw@SD" group-title="港澳台" tvg-name="EBC Foreign Movie",EBC Foreign Movie
+http://111.59.139.85:11888/tsfile/live/1217_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="EBCNews.tw@SD" group-title="港澳台" tvg-name="EBC News (東森新聞台) (1080p) [Not 24/7]",EBC News (東森新聞台) (1080p) [Not 24/7]
 http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="GoldenJade.hk@SD" group-title="港澳台" tvg-name="Golden Jade (1080p)",Golden Jade (1080p)
@@ -516,6 +520,8 @@ http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
 http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8
 #EXTINF:-1 tvg-id="MeiAhMovieChannel.hk@SD" group-title="港澳台" tvg-name="Mei Ah Movie Channel (1080p)",Mei Ah Movie Channel (1080p)
 http://103.172.187.30:12000/stream/mytv/null-10/master.m3u8
+#EXTINF:-1 tvg-id="PTS3.tw@SD" group-title="港澳台" tvg-name="PTS 3",PTS 3
+http://111.59.139.85:11888/tsfile/live/1222_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="RTHK TV 31" tvg-logo="https://i.imgur.com/kf818kM.png" tvg-id="RTHKTV31.hk" tvg-chno="31" tvg-country="HK" group-title="港澳台",港台电视31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-id="RTHKTV31.hk@SD" group-title="港澳台" tvg-name="港台电视31 (港台電視31) (1080p) [Geo-blocked]",港台电视31 (港台電視31) (1080p) [Geo-blocked]
@@ -534,6 +540,8 @@ https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
 https://rthktv36-live.akamaized.net/hls/live/2112176/RTHKTV36/master.m3u8
 #EXTINF:-1 tvg-id="SETNews.tw@SD" group-title="港澳台" tvg-name="SET News (三立新聞) (1080p) [Geo-blocked]",SET News (三立新聞) (1080p) [Geo-blocked]
 http://seb.sason.top/sc/sllive_fhd.m3u8
+#EXTINF:-1 tvg-id="SJTV.tw@SD" group-title="港澳台" tvg-name="SJTV",SJTV
+http://111.59.139.85:11888/tsfile/live/1220_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="TVB Finance (Sports & Information Channel)" tvg-logo="https://i.imgur.com/Fkkp7x7.png" tvg-id="TVBFinanceSportsInformationChannel.hk" tvg-chno="84" tvg-country="HK" group-title="港澳台",TVB Finance (Sports & Information Channel)
 https://tvp22.sky4k.top/index2.php
 #EXTINF:-1 tvg-name="TVB News Channel" tvg-logo="https://i.imgur.com/Gwij0Fj.png" tvg-id="TVBNewsChannel.hk" tvg-chno="83" tvg-country="HK" group-title="港澳台",TVB News Channel
@@ -564,8 +572,6 @@ http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GugbangTV.kr@SD" group-title="韩国" tvg-name="Gugbang TV (1080p) [Not 24/7]",Gugbang TV (1080p) [Not 24/7]
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="KBSJoy.kr@SD" group-title="韩国" tvg-name="KBS Joy [Not 24/7]",KBS Joy [Not 24/7]
-https://xykt-fix.github.io/flv/KJ_W.m3u8
 #EXTINF:-1 tvg-id="KTV.kr@SD" group-title="韩国" tvg-name="Korea TV (1080p)",Korea TV (1080p)
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="HLAQDTV.kr@SD" group-title="韩国" tvg-name="MBC Gangwon (MBC 강원영동) (1080p) [Not 24/7]",MBC Gangwon (MBC 강원영동) (1080p) [Not 24/7]
